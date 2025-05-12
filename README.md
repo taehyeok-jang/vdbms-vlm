@@ -2,7 +2,7 @@
 
 This project implements a video retrieval system that connects natural language queries with untrimmed video corpora. It leverages advanced video understanding models (e.g., Google Gemini 2.0 Flash) and vector-based semantic search to retrieve semantically relevant clips without manual annotation.
 
-<p align="center"> <img src="https://github.gatech.edu/tjang31/adb-final/assets/82758/44887e9a-e82c-493a-aed3-66db4d0346f3" width="70%"> </p>
+<p align="center"> <img src="images/44887e9a-e82c-493a-aed3-66db4d0346f3.png" width="70%"> </p>
 
 ### Features
 
